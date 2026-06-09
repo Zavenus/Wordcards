@@ -1,0 +1,3 @@
+apple	aple	.	A fruit
+book	bʊk	.	Something you read
+
